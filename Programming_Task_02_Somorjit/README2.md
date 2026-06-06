@@ -21,7 +21,7 @@ This program accepts a number from the user and determines whether it is even or
 
 ### Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/148fc565bf795e64d72a8dd1d061422e5555c8ad/Programming_Task_02_Somorjit/screenshots/even_odd.png)
 
 ---
 
@@ -38,7 +38,7 @@ This program takes three numbers as input and finds the largest number among the
 
 ### Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/148fc565bf795e64d72a8dd1d061422e5555c8ad/Programming_Task_02_Somorjit/screenshots/Largest_of_three_numbers.png)
 
 ---
 
@@ -63,7 +63,7 @@ This program accepts marks from the user and displays the corresponding grade.
 
 ### Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/148fc565bf795e64d72a8dd1d061422e5555c8ad/Programming_Task_02_Somorjit/screenshots/Student_Grade_Calculator.png)
 
 ---
 
@@ -87,7 +87,7 @@ Password: password123
 
 ### Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/148fc565bf795e64d72a8dd1d061422e5555c8ad/Programming_Task_02_Somorjit/screenshots/Simple_Login_Validation.png)
 
 ### Invalid Login Example
 
@@ -120,6 +120,6 @@ This program evaluates password strength based on:
 
 ### Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/148fc565bf795e64d72a8dd1d061422e5555c8ad/Programming_Task_02_Somorjit/screenshots/Mini_Cyber_Security_Challenge.png)
 
 ---
