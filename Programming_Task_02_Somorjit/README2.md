@@ -8,32 +8,6 @@ The purpose of this task is to strengthen understanding of variables, operators,
 
 ---
 
-## 📂 Folder Structure
-
-```text
-Programming_Task_02_YourName/
-│
-├── Python Files
-│   ├── even_odd.py
-│   ├── largest_number.py
-│   ├── grade_calculator.py
-│   ├── login_validation.py
-│   └── password_checker.py
-│
-├── C Files
-│   ├── even_odd.c
-│   ├── largest_number.c
-│   ├── grade_calculator.c
-│   ├── login_validation.c
-│   └── password_checker.c
-│
-├── Screenshots
-│
-└── README.md
-```
-
----
-
 # Part A: Even or Odd Checker
 
 ### Files
@@ -176,35 +150,3 @@ Strong Password
 Screenshots of successful execution for all programs have been included in the repository.
 
 ---
-
-# 📚 Concepts Learned
-
-## Python
-
-* if, elif, else
-* Comparison Operators
-* Logical Operators
-* String Functions
-* User Input Handling
-
-## C Programming
-
-* Decision Making Statements
-* if-else
-* Nested if
-* Relational Operators
-* Logical Operators
-* Basic String Handling
-
-## Common Concepts
-
-* Flowcharts
-* Problem Solving
-* Algorithm Basics
-* Input Validation
-
----
-
-# 🚀 Conclusion
-
-This task improved problem-solving skills and strengthened understanding of conditional statements, logical operators, user input handling, and basic cybersecurity-related validation techniques. Implementing the same programs in both Python and C helped build confidence in programming fundamentals and logical thinking.
