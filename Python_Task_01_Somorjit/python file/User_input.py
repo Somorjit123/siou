@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+Favourite_technology = input("Enter your favourite technology: ")
+print("\nHello", name + "!")
+print("Your age is", age, "years old.")
+print("Your Favourite technology is", Favourite_technology + ".")
