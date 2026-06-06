@@ -22,6 +22,10 @@ python --version
 
 A screenshot of the output has been included in the repository.
 
+
+ ![Image Alt](image_url)
+
+
 ---
 
 # Part B: System Information Program
