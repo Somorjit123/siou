@@ -1,11 +1,8 @@
-# Python and C Programming – Task 01
+# Python and C Programming 
 
-## 📌 Internship Information
+## 📌 Task 01: System Information & Basic Automation
 
-**Intern Name:** Your Name
-**College Name:** Your College Name
-**Branch:** Computer Science and Engineering (CSE)
-**Internship:** Python and C Programming Internship
+
 
 ---
 
@@ -17,10 +14,9 @@ The purpose of this task is to become familiar with Python programming fundament
 
 # Part A: Environment Setup
 
-### Tools Installed
+### To Install Python
 
 * Python 3.x
-* Visual Studio Code (VS Code)
 
 ### Verification
 
