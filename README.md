@@ -23,7 +23,7 @@ python --version
 A screenshot of the output has been included in the repository.
 
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Somorjit123/siou/blob/2e22611314d00eb2d23398d24a0b40f7e91340f4/Screenshot%202026-06-02%20142913.png)
 
 
 ---
