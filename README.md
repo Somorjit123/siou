@@ -12,8 +12,6 @@ The purpose of this task is to become familiar with Python programming fundament
 
 ### To Install Python
 
-* Python 3.x
-
 ### Verification
 
 Python installation was verified using the following command:
