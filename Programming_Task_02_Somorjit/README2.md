@@ -91,9 +91,7 @@ Password: password123
 
 ### Invalid Login Example
 
-```text
-Invalid Credentials
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/739723476b467fa30dc1c754e975781132bac8b9/Programming_Task_02_Somorjit/screenshots/invalid_login.png)
 
 ---
 
