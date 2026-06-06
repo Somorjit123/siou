@@ -19,12 +19,9 @@ The purpose of this task is to strengthen understanding of variables, operators,
 
 This program accepts a number from the user and determines whether it is even or odd.
 
-### Sample Output
+### Output
 
-```text
-Enter a Number: 15
-15 is an Odd Number
-```
+![Image Alt]
 
 ---
 
@@ -39,15 +36,9 @@ Enter a Number: 15
 
 This program takes three numbers as input and finds the largest number among them.
 
-### Sample Output
+### Output
 
-```text
-Enter First Number: 10
-Enter Second Number: 25
-Enter Third Number: 18
-
-Largest Number = 25
-```
+![Image Alt]
 
 ---
 
@@ -70,12 +61,9 @@ This program accepts marks from the user and displays the corresponding grade.
 | 60 – 69  | D     |
 | Below 60 | F     |
 
-### Sample Output
+### Output
 
-```text
-Enter Marks: 85
-Grade: B
-```
+![Image Alt]
 
 ---
 
@@ -97,14 +85,9 @@ Username: admin
 Password: password123
 ```
 
-### Sample Output
+### Output
 
-```text
-Enter Username: admin
-Enter Password: password123
-
-Login Successful
-```
+![Image Alt]
 
 ### Invalid Login Example
 
@@ -135,18 +118,8 @@ This program evaluates password strength based on:
 * Moderate Password
 * Strong Password
 
-### Sample Output
+### Output
 
-```text
-Password: Cyber123
-
-Strong Password
-```
-
----
-
-# 📸 Screenshots
-
-Screenshots of successful execution for all programs have been included in the repository.
+![Image Alt]
 
 ---
