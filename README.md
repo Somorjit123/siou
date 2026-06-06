@@ -2,10 +2,6 @@
 
 ## 📌 Task 01: System Information & Basic Automation
 
-
-
----
-
 ## 🎯 Objective
 
 The purpose of this task is to become familiar with Python programming fundamentals, user input, variables, functions, and basic automation.
