@@ -46,7 +46,7 @@ This program displays:
 
 ### Sample Output
 
-
+![Image Alt](
 ```
 
 ---
