@@ -68,7 +68,8 @@ It then displays a formatted summary.
 
 ### Sample Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/934d4783d392e6f51871acfc6eee6acc8a83efd8/Screenshot%202026-06-02%20145221.png) 
+
 
 ---
 
@@ -91,7 +92,8 @@ using two numbers entered by the user.
 
 ### Sample Output
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/934d4783d392e6f51871acfc6eee6acc8a83efd8/Screenshot%202026-06-02%20191133.png)   
+
 
 ---
 
@@ -123,7 +125,7 @@ sys
 
 A screenshot of the output has been included in the repository.
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/934d4783d392e6f51871acfc6eee6acc8a83efd8/Screenshot%202026-06-06%20202413.png)
 
 ---
 
