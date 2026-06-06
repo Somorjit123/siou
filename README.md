@@ -46,8 +46,7 @@ This program displays:
 
 ### Sample Output
 
-![Image Alt](
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/77da288caac0135c9d094d628ac36fa63c1399fc/Screenshot%202026-06-02%20142840.png)
 
 ---
 
@@ -69,11 +68,7 @@ It then displays a formatted summary.
 
 ### Sample Output
 
-```text
-Hello Soham!
-You are 20 years old.
-Your favorite technology is Python.
-```
+![Image Alt]
 
 ---
 
@@ -96,15 +91,7 @@ using two numbers entered by the user.
 
 ### Sample Output
 
-```text
-Enter First Number: 10
-Enter Second Number: 5
-
-Addition: 15
-Subtraction: 5
-Multiplication: 50
-Division: 2
-```
+![Image Alt]
 
 ---
 
@@ -133,14 +120,10 @@ sys
 
 ### Sample Output
 
-```text
-Operating System: Windows
-Username: Soham
-Current Directory: C:\Users\Soham
-Python Version: 3.13.0
-```
 
 A screenshot of the output has been included in the repository.
+
+![Image Alt]
 
 ---
 
