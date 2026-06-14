@@ -33,7 +33,7 @@ A menu-driven calculator that performs:
 
 **Output**
 
-
+![Image Alt]
 ---
 
 ## 🔹 Part B: Student Information Manager
@@ -57,7 +57,7 @@ Accepts and displays:
 * Function Arguments
 * Data Organization
 * Structured Programming
-
+**Output**
 
 ![Image Alt]
 ---
@@ -87,7 +87,8 @@ Accepts marks for 5 subjects and calculates:
 * Functions
 * Conditional Statements
 * Percentage Calculation
-
+**Output**
+![Image Alt]
 ---
 
 ## 🔹 Part D: File Handling Challenge
@@ -104,7 +105,8 @@ Then reads and displays the stored data.
 * File Writing
 * File Reading
 * Data Storage
-
+**Output**
+![Image Alt]
 ---
 
 ## 🔹 Part E: Password Vault Simulator
@@ -124,65 +126,6 @@ Inside a text file and displays all saved records.
 * File Handling
 * Record Management
 * Data Persistence
-
+**Output**
+![Image Alt]
 ---
-
-## ⭐ Bonus Challenge: Log File Generator
-
-### Description
-
-Stores:
-
-* Date
-* Time
-* Program Name
-* User Activity
-
-Inside:
-activity_log.txt
-
-### Concepts Learned
-
-* Logging Systems
-* Time Module
-* Security Fundamentals
-
----
-
-## 🛠 Concepts Practiced
-
-### Python
-
-* Functions
-* Arguments & Parameters
-* Return Statements
-* File Handling
-* Exception Handling Basics
-
-### C Programming
-
-* Functions
-* Function Prototypes
-* Passing Arguments
-* File Handling
-* Storage Concepts
-
-### Common Concepts
-
-* Modular Programming
-* Data Storage
-* Logging Systems
-* Program Organization
-* Error Handling
-
----
-
-## 📸 Screenshots
-
-Execution screenshots for all programs are included in the Screenshots folder.
-
----
-
-## 🚀 Conclusion
-
-This task improved understanding of functions, modular programming, file handling, data management, and structured application development in both Python and C Programming.
