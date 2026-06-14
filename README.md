@@ -33,7 +33,7 @@ A menu-driven calculator that performs:
 
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/00751145d060a947d4a7a3fbc6da4aa5cb55a2e3/Programming_Task_04_somorjit/screenshots/calculator_functions.png)
 ---
 
 ## 🔹 Part B: Student Information Manager
@@ -57,9 +57,10 @@ Accepts and displays:
 * Function Arguments
 * Data Organization
 * Structured Programming
+  
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/00751145d060a947d4a7a3fbc6da4aa5cb55a2e3/Programming_Task_04_somorjit/screenshots/student_manager.png)
 ---
 
 ## 🔹 Part C: Marks Analysis System
@@ -87,8 +88,9 @@ Accepts marks for 5 subjects and calculates:
 * Functions
 * Conditional Statements
 * Percentage Calculation
+  
 **Output**
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/00751145d060a947d4a7a3fbc6da4aa5cb55a2e3/Programming_Task_04_somorjit/screenshots/marks_analyzer.png)
 ---
 
 ## 🔹 Part D: File Handling Challenge
@@ -105,8 +107,9 @@ Then reads and displays the stored data.
 * File Writing
 * File Reading
 * Data Storage
+  
 **Output**
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/00751145d060a947d4a7a3fbc6da4aa5cb55a2e3/Programming_Task_04_somorjit/screenshots/file_handling.png)
 ---
 
 ## 🔹 Part E: Password Vault Simulator
@@ -126,6 +129,7 @@ Inside a text file and displays all saved records.
 * File Handling
 * Record Management
 * Data Persistence
+  
 **Output**
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/00751145d060a947d4a7a3fbc6da4aa5cb55a2e3/Programming_Task_04_somorjit/screenshots/password_vault.png)
 ---
