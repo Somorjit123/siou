@@ -24,9 +24,8 @@ This program accepts a number from the user and displays its multiplication tabl
 
 **Output**
 
-```
-![Image Alt]
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/e0383983238ce4d7338b73ae5b33c223e3c7b193/Programming_Task_03_somorjit/screenshot/multiplication_table.png)
+
 
 ### Logic Used
 
@@ -51,17 +50,13 @@ This program accepts a number N and calculates:
 
 **Input**
 
-```text
-10
+```
+40
 ```
 
 **Output**
 
-```text
-Sum = 55
-Even Numbers = 5
-Odd Numbers = 5
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/e0383983238ce4d7338b73ae5b33c223e3c7b193/Programming_Task_03_somorjit/screenshot/number_analysis.png)
 
 ### Logic Used
 
@@ -74,35 +69,7 @@ Odd Numbers = 5
 
 ## 🔹 Part C: Pattern Printing Challenge
 
-### Pattern 1
-
-```text
-*
-**
-***
-****
-*****
-```
-
-### Pattern 2
-
-```text
-*****
-****
-***
-**
-*
-```
-
-### Pattern 3
-
-```text
-1
-12
-123
-1234
-12345
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/e0383983238ce4d7338b73ae5b33c223e3c7b193/Programming_Task_03_somorjit/screenshot/patterns.png)
 
 ### Logic Used
 
@@ -118,24 +85,7 @@ Odd Numbers = 5
 
 This program simulates a basic authentication system.
 
-### Features
-
-* Stores a predefined password.
-* Allows a maximum of 3 attempts.
-* Displays:
-
-  * Access Granted
-  * Account Locked
-
-### Logic Used
-
-* Store the correct password.
-* Use a loop for three attempts.
-* Compare user input with the stored password.
-* Grant access if matched.
-* Lock account after three failed attempts.
-
----
+![Image Alt](https://github.com/Somorjit123/siou/blob/e0383983238ce4d7338b73ae5b33c223e3c7b193/Programming_Task_03_somorjit/screenshot/password_attempt.png)
 
 ## 🔹 Part E: Username Generator
 
@@ -152,19 +102,12 @@ This utility generates multiple username suggestions based on:
 **Input**
 
 ```text
-First Name: Soham
-Last Name: Patel
-Birth Year: 2004
+First Name: Somorjit
+Last Name: Singha
+Birth Year: 2003
 ```
 
 **Output**
 
-```text
-sohampatel2004
-s.patel04
-patel_soham
-soham_2004
-patel2004
-```
+![Image Alt](https://github.com/Somorjit123/siou/blob/e0383983238ce4d7338b73ae5b33c223e3c7b193/Programming_Task_03_somorjit/screenshot/username_generator.png)
 
-in both Python and C Programming.
