@@ -55,6 +55,8 @@ Accepts and displays:
 * Data Organization
 * Structured Programming
 
+
+![Image Alt]
 ---
 
 ## 🔹 Part C: Marks Analysis System
