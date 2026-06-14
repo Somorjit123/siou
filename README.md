@@ -31,6 +31,9 @@ A menu-driven calculator that performs:
 * Return Statements
 * Menu-Driven Programming
 
+**Output**
+
+
 ---
 
 ## 🔹 Part B: Student Information Manager
