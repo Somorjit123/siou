@@ -19,7 +19,7 @@ This program accepts a number from the user and displays its multiplication tabl
 **Input**
 
 ```text
-7
+5
 ```
 
 **Output**
