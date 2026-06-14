@@ -24,11 +24,8 @@ This program accepts a number from the user and displays its multiplication tabl
 
 **Output**
 
-```text
-7 x 1 = 7
-7 x 2 = 14
-...
-7 x 10 = 70
+```
+![Image Alt]
 ```
 
 ### Logic Used
