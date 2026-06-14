@@ -1,41 +1,10 @@
-# Python and C Programming – Task 03
+# Python and C Programming 
 
 ## 📌 Task 03: Loops, Patterns & Basic Automation
 
 ### 🎯 Objective
 
 The purpose of this task is to strengthen understanding of loops, iteration, problem-solving, and basic automation concepts. All programs were implemented in both **Python** and **C Programming**.
-
----
-
-## 📂 Folder Structure
-
-```text
-Programming_Task_03_YourName/
-│
-├── Python Files
-│   ├── multiplication_table.py
-│   ├── number_analysis.py
-│   ├── patterns.py
-│   ├── password_attempt.py
-│   └── username_generator.py
-│
-├── C Files
-│   ├── multiplication_table.c
-│   ├── number_analysis.c
-│   ├── patterns.c
-│   ├── password_attempt.c
-│   └── username_generator.c
-│
-├── Screenshots
-│   ├── multiplication_table_output.png
-│   ├── number_analysis_output.png
-│   ├── patterns_output.png
-│   ├── password_attempt_output.png
-│   └── username_generator_output.png
-│
-└── README.md
-```
 
 ---
 
@@ -201,69 +170,4 @@ soham_2004
 patel2004
 ```
 
-### Logic Used
-
-* Accept user details.
-* Perform string manipulation.
-* Combine names and birth year in different formats.
-* Display at least five username suggestions.
-
----
-
-## ⭐ Bonus Challenge: Number Guessing Game
-
-### Description
-
-A simple game where the user guesses a secret number between 1 and 50.
-
-### Features
-
-* Random number generation.
-* Unlimited attempts until correct guess.
-* Displays total attempts taken.
-
-### Logic Used
-
-* Generate a random number.
-* Use a loop until the correct number is guessed.
-* Count and display attempts.
-
----
-
-## 🛠 Concepts Practiced
-
-### Python
-
-* for Loops
-* while Loops
-* range()
-* String Manipulation
-* Random Module
-
-### C Programming
-
-* for Loop
-* while Loop
-* do-while Loop
-* Nested Loops
-* String Functions
-
-### Common Concepts
-
-* Loop Control
-* Iteration
-* Pattern Printing
-* Algorithm Design
-* Basic Authentication Logic
-
----
-
-## 📸 Screenshots
-
-Execution screenshots for all programs are included in the Screenshots folder.
-
----
-
-## 🚀 Conclusion
-
-This task improved understanding of loops, nested loops, conditional statements, string manipulation, pattern printing, authentication logic, and basic automation concepts in both Python and C Programming.
+in both Python and C Programming.
