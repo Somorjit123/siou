@@ -21,7 +21,7 @@ The purpose of this task is to understand how data is stored, processed, searche
     
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/f7f2fd91c8d52260cead6855d12b12be1079c503/Programming_Task_05_somorjit/screenshots/marks_analyzer.png)
 
 ---
 
@@ -35,7 +35,7 @@ The purpose of this task is to understand how data is stored, processed, searche
     
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/f7f2fd91c8d52260cead6855d12b12be1079c503/Programming_Task_05_somorjit/screenshots/employee_search.png)
 
 ---
 
@@ -52,7 +52,7 @@ The purpose of this task is to understand how data is stored, processed, searche
     
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/f7f2fd91c8d52260cead6855d12b12be1079c503/Programming_Task_05_somorjit/screenshots/statistics_tool.png)
 
 ---
 
@@ -67,7 +67,7 @@ The purpose of this task is to understand how data is stored, processed, searche
     
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/f7f2fd91c8d52260cead6855d12b12be1079c503/Programming_Task_05_somorjit/screenshots/log_analyzer.png)
 
 ---
 
@@ -81,6 +81,6 @@ The purpose of this task is to understand how data is stored, processed, searche
     
 **Output**
 
-![Image Alt]
+![Image Alt](https://github.com/Somorjit123/siou/blob/f7f2fd91c8d52260cead6855d12b12be1079c503/Programming_Task_05_somorjit/screenshots/blacklist_checker.png)
 
 ---
