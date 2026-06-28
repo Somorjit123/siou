@@ -82,8 +82,8 @@ Each employee record contains:
 ------------------------------------------------------------
 ID      Name      Department     Designation      Salary
 ------------------------------------------------------------
-101     Soham     IT             Developer        50000
-102     Rahul     HR             Manager          65000
+101     Somorjit     IT             Developer        50000
+102     Rohit        HR             Manager          65000
 ```
 ---
 
